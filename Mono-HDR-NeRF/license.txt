@@ -1,0 +1,134 @@
+Source codes of blender files are modified from "https://drive.google.com/file/d/1RjwxZCUoPlUgEWIUiuCmMmG0AhuV8A2Q/view?usp=sharing".
+
+
+Scene: bathroom
+Model Information:
+* title:	The Bathroom (Free)
+* source:	https://sketchfab.com/3d-models/the-bathroom-free-d5e5035dda434b8d9beaa7271f1c85fc
+* author:	Evan (https://sketchfab.com/Evanz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. 
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Bathroom (Free)" (https://sketchfab.com/3d-models/the-bathroom-free-d5e5035dda434b8d9beaa7271f1c85fc) by Evan (https://sketchfab.com/Evanz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Scene: bear
+Model Information:
+* title:	Toy Box
+* source:	https://sketchfab.com/3d-models/toy-box-8ce01f03c4c54c1bb69f6ba47a590586
+* author:	Hayley Jacka (https://sketchfab.com/HayleyJacka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Box" (https://sketchfab.com/3d-models/toy-box-8ce01f03c4c54c1bb69f6ba47a590586) by Hayley Jacka (https://sketchfab.com/HayleyJacka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Scene: chair
+Model Information:
+* title:	Sad toaster
+* source:	https://sketchfab.com/3d-models/sad-toaster-9b158486dfa1490eb9157966321283a0
+* author:	tasha.lime (https://sketchfab.com/tasha.lime)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sad toaster" (https://sketchfab.com/3d-models/sad-toaster-9b158486dfa1490eb9157966321283a0) by tasha.lime (https://sketchfab.com/tasha.lime) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+
+
+Scene: desk
+Model1 Information:
+* title:	Vintage Office - Interior Scene
+* source:	https://sketchfab.com/3d-models/vintage-office-interior-scene-bfc0db441e454c4e89ae7b90b21737c1
+* author:	aurelien_martel (https://sketchfab.com/aurelien_martel)
+
+Model2 Information:
+* title:	Miniature cat
+* source:	https://sketchfab.com/3d-models/miniature-cat-7aabffe566ef462db6d1cd6a6dd46345
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage Office" (https://sketchfab.com/3d-models/vintage-office-interior-scene-bfc0db441e454c4e89ae7b90b21737c1) by aurelien_martel (https://sketchfab.com/aurelien_martel) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+and "Miniature cat" (https://sketchfab.com/3d-models/miniature-cat-7aabffe566ef462db6d1cd6a6dd46345) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+
+
+Scene: diningroom
+Model Information:
+* title:	diningroom
+* source:	https://sketchfab.com/
+
+
+Scene: dog
+Model Information:
+* title:	Interior Living Room Corner
+* source:	https://sketchfab.com/3d-models/interior-living-room-corner-d21ca60c6fa44e4bbc9ebc411e63233e
+* author:	enteRenders (https://sketchfab.com/ente)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. 
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Interior Living Room Corner" (https://sketchfab.com/3d-models/interior-living-room-corner-d21ca60c6fa44e4bbc9ebc411e63233e) by enteRenders (https://sketchfab.com/ente) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Scene: sofa
+Model1 Information:
+* title:	Room by night
+* source:	https://sketchfab.com/3d-models/room-by-night-e1899373f9d741f0b35b906139f3a00b
+* author:	gorzi (https://sketchfab.com/gorzi90)
+
+Model2 Information:
+* title:	Lucy Dog Color 3D Scan
+* source:	https://sketchfab.com/3d-models/lucy-dog-color-3d-scan-b2bb780f853e457f964c785a44780d10
+* author:	Laser Design (https://sketchfab.com/Laserdesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. 
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Room by night" (https://sketchfab.com/3d-models/room-by-night-e1899373f9d741f0b35b906139f3a00b) by gorzi (https://sketchfab.com/gorzi90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+and "Lucy Dog Color 3D Scan" (https://sketchfab.com/3d-models/lucy-dog-color-3d-scan-b2bb780f853e457f964c785a44780d10) by Laser Design(https://sketchfab.com/Laserdesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Scene: sponza
+PBR textures for the Sponza model.
+For more informations: www.alexandre-pestana.com
+
+Original copyright:
+
+Taken from https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Sponza
+
+July 14, 2011 Morgan McGuire modified the model from Crytek's OBJ
+export to correct some small errors.  He computed bump maps from the
+normal maps using <a
+href="http://cs.williams.edu/~morgan/code/">normal2bump.cpp</a> (since
+MTL files expect height bumps, not normals), put the "mask" textures
+into the alpha channel of the associated diffuse texture, cleaned up
+noise in the masks, created the missing gi_flag.tga texture, and
+removed the long untextured banner floating in the middle of the
+atrium that appears in the file but in none of the published images of
+the model.  The banner is in banner.obj.
+
+http://www.crytek.com/cryengine/cryengine3/downloads
+
+Sponza Model
+August 19, 2010
+The Atrium Sponza Palace, Dubrovnik, is an elegant and improved model created by Frank Meinl. The original Sponza model was created by Marko Dabrovic in early 2002. Over the years, the Sponza Atrium scene has become one of the most popular 3D scenes for testing global illumination and radiosity due to it's specific architectural structure which is particularly complex for global illumination light.
+
+However, nowadays it is considered as a simple model, thus it was decided to crate a new model with highly improved appearance and scene complexity. It is donated to the public for  radiosity and is represented in several different formats (3ds, Obj) for use with various commercial 3D applications and renderers.
+
+Screenshot from the I3D paper
+http://crytek.com/sites/default/files/20100301_lpv.pdf
