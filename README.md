@@ -1,5 +1,5 @@
 # Mono-HDR-3D: High Dynamic Range Novel View Synthesis with Single Exposure
-### [Videos](https://drive.google.com/drive/folders/1k68pKgKYgYBi0urAPWROOLC8G2u8hxRX?usp=sharing) [Paper](https://arxiv.org/abs/2505.01212) | [Dataset](https://drive.google.com/drive/folders/1OTDLLH8ydKX1DcaNpbQ46LlP0dKx6E-I?usp=sharing)
+### [Videos](https://drive.google.com/drive/folders/1k68pKgKYgYBi0urAPWROOLC8G2u8hxRX?usp=sharing) | [Paper](https://arxiv.org/abs/2505.01212) | [Dataset](https://drive.google.com/drive/folders/1OTDLLH8ydKX1DcaNpbQ46LlP0dKx6E-I?usp=sharing)
 
 ## Abstract
 High Dynamic Range Novel View Synthesis (HDR-NVS)
