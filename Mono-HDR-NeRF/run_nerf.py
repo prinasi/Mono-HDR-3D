@@ -695,9 +695,9 @@ def train():
         #####  Core optimization loop  #####
         rgb_h, rgb, disp, acc, extras, lnx = render(H, W, K, chunk=args.chunk, rays=batch_rays, exps=batch_exps,
                                                     verbose=i < 10, retraw=True, **render_kwargs_train)
-        rgb_ht = torch.clamp(F.tanh(rgb_h), 0.0, 1.0)
+        rgb_ht = torch.clamp(rgb_h / rgb_h.max(), 0.0, 1.0)
         if gt_hdr is not None:
-            # rgb_ht = torch.clamp(F.tanh(rgb_h), 0.0, 1.0)
+            # rgb_ht = torch.clamp(rgb_h / rgb_h.max(), 0.0, 1.0)
             rgb_ht = tone_mapper(rgb_ht)
             hdr_loss = img2mse(rgb_ht, gt_hdr, 1)
         else:
