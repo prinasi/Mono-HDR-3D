@@ -47,14 +47,11 @@ Intermediate results and models are saved in ```output/mlp/<scene_name>```
 
 ## Cite 
 ```
-@article{zhang2025highdynamicrangenovel,
-      title={High Dynamic Range Novel View Synthesis with Single Exposure}, 
-      author={Kaixuan Zhang and Hu Wang and Minxian Li and Mingwu Ren and Mao Ye and Xiatian Zhu},
-      year={2025},
-      eprint={2505.01212},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.01212}, 
+@inproceedings{zhang2025high,
+  title={High Dynamic Range Novel View Synthesis with Single Exposure},
+  author={Zhang, Kaixuan and Wang, Hu and Li, Minxian and Ren, Mingwu and Ye, Mao and Zhu, Xiatian},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025}
 }
 ```
 
