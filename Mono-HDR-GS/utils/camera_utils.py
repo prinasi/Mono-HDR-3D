@@ -91,11 +91,7 @@ def loadCam_syn(args, id, cam_info, resolution_scale, training=False):
     resized_image_rgb_hdr = PILtoTorch(cam_info.image_hdr, resolution)
 
     gt_image = resized_image_rgb[:3, ...]
-    
-    if random.random() < 2/3 and training:
-        gt_image_hdr = None
-    else:
-        gt_image_hdr = resized_image_rgb_hdr[:3, ...]
+    gt_image_hdr = resized_image_rgb_hdr[:3, ...]
     loaded_mask = None
 
     if resized_image_rgb.shape[1] == 4:
